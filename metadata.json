@@ -1,0 +1,6 @@
+{
+  "name": "DECOYNET — AI-Powered Cyber Deception & Intrusion Detection System",
+  "description": "Deceive. Detect. Defend. A cyber deception system creating realistic decoy digital assets to detect intruders, trace attacker movement, and reconstruct incident timelines with Gemini AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
